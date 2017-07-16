@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Symbol.mc" lineNum="8" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Symbol.mc" lineNum="9" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Symbol.mc" lineNum="10" pc="268435503" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Symbol.mc" lineNum="11" pc="268435546" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Symbol.mc" lineNum="12" pc="268435589" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Symbol.mc" lineNum="15" pc="268435633" symbol="drawBluetooth"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Symbol.mc" lineNum="16" pc="268435637" symbol="drawBluetooth"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Symbol.mc" lineNum="17" pc="268435670" symbol="drawBluetooth"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Symbol.mc" lineNum="19" pc="268435729" symbol="drawBluetooth"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Symbol.mc" lineNum="23" pc="268435769" symbol="drawNotification"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Symbol.mc" lineNum="24" pc="268435773" symbol="drawNotification"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Symbol.mc" lineNum="25" pc="268435812" symbol="drawNotification"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Symbol.mc" lineNum="27" pc="268435877" symbol="drawNotification"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="10" pc="268435911" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="11" pc="268435915" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="12" pc="268435959" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="13" pc="268435990" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="14" pc="268435990" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="15" pc="268435996" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="16" pc="268436072" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="17" pc="268436125" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="21" pc="268436204" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="22" pc="268436280" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="23" pc="268436333" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="26" pc="268436409" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="29" pc="268436432" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="30" pc="268436436" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="31" pc="268436502" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="34" pc="268436525" symbol="drawSteps"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="35" pc="268436529" symbol="drawSteps"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="36" pc="268436588" symbol="drawSteps"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="39" pc="268436611" symbol="drawStepsGoal"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="40" pc="268436615" symbol="drawStepsGoal"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="41" pc="268436705" symbol="drawStepsGoal"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="44" pc="268436728" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="45" pc="268436732" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="46" pc="268436732" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="47" pc="268436769" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="48" pc="268436818" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="51" pc="268436873" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="52" pc="268436922" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="54" pc="268436974" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="57" pc="268436997" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="58" pc="268437001" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="59" pc="268437001" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="60" pc="268437025" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="62" pc="268437035" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="64" pc="268437042" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="67" pc="268437065" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="68" pc="268437069" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="69" pc="268437076" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="70" pc="268437106" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="72" pc="268437116" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="73" pc="268437183" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="76" pc="268437206" symbol="drawCalories"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="77" pc="268437210" symbol="drawCalories"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/StatsDisplay.mc" lineNum="78" pc="268437269" symbol="drawCalories"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="6" pc="268437293" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="7" pc="268437297" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="8" pc="268437328" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="9" pc="268437334" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="12" pc="268437350" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="15" pc="268437364" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="16" pc="268437368" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="17" pc="268437399" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="18" pc="268437406" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="20" pc="268437423" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="22" pc="268437438" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="25" pc="268437442" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="26" pc="268437446" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="27" pc="268437477" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="28" pc="268437504" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="30" pc="268437546" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="32" pc="268437562" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="36" pc="268437566" symbol="getTertiaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="37" pc="268437570" symbol="getTertiaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="38" pc="268437601" symbol="getTertiaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="39" pc="268437607" symbol="getTertiaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="41" pc="268437623" symbol="getTertiaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="44" pc="268437637" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="45" pc="268437641" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="46" pc="268437672" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="47" pc="268437678" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/WatchFaceUI/Color.mc" lineNum="49" pc="268437694" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="11" pc="268437709" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="14" pc="268437714" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="15" pc="268437718" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="16" pc="268437737" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="17" pc="268437756" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="18" pc="268437787" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="19" pc="268437794" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="20" pc="268437819" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="22" pc="268437840" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="24" pc="268437861" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="25" pc="268437868" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="26" pc="268437898" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="29" pc="268437911" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="30" pc="268437927" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="33" pc="268437944" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="34" pc="268437948" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="35" pc="268437956" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="36" pc="268437973" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="37" pc="268437998" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="38" pc="268438016" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="39" pc="268438042" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="40" pc="268438067" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="41" pc="268438078" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="43" pc="268438091" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="46" pc="268438135" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="47" pc="268438154" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="48" pc="268438165" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="50" pc="268438178" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="56" pc="268438235" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="57" pc="268438253" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="58" pc="268438272" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="59" pc="268438283" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="62" pc="268438322" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="64" pc="268438335" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="67" pc="268438403" symbol="hourString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="70" pc="268438407" symbol="minString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="71" pc="268438411" symbol="minString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="72" pc="268438419" symbol="minString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="73" pc="268438436" symbol="minString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="74" pc="268438454" symbol="minString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="76" pc="268438473" symbol="minString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="77" pc="268438484" symbol="minString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="81" pc="268438508" symbol="minString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="83" pc="268438521" symbol="minString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="85" pc="268438589" symbol="minString"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="88" pc="268438593" symbol="drawHours"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="89" pc="268438597" symbol="drawHours"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="90" pc="268438610" symbol="drawHours"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="91" pc="268438682" symbol="drawHours"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="92" pc="268438748" symbol="drawHours"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="94" pc="268438826" symbol="drawHours"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="95" pc="268438867" symbol="drawHours"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="96" pc="268438939" symbol="drawHours"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="99" pc="268439018" symbol="drawMinutes"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="100" pc="268439022" symbol="drawMinutes"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="101" pc="268439035" symbol="drawMinutes"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="102" pc="268439107" symbol="drawMinutes"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="104" pc="268439185" symbol="drawMinutes"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="105" pc="268439226" symbol="drawMinutes"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="106" pc="268439298" symbol="drawMinutes"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="108" pc="268439376" symbol="drawMinutes"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/TimeDisplay.mc" lineNum="109" pc="268439417" symbol="drawMinutes"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="24" pc="268439484" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="27" pc="268439489" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="28" pc="268439493" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="29" pc="268439512" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="30" pc="268439531" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="31" pc="268439562" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="32" pc="268439593" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="33" pc="268439634" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="34" pc="268439648" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="36" pc="268439681" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="38" pc="268439714" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="40" pc="268439745" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="41" pc="268439759" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="43" pc="268439792" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="45" pc="268439825" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="47" pc="268439858" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="49" pc="268439889" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="51" pc="268439922" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="55" pc="268439940" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="56" pc="268439944" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="57" pc="268439968" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="58" pc="268439982" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="59" pc="268440066" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="60" pc="268440156" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="61" pc="268440246" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="62" pc="268440314" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="65" pc="268440383" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="66" pc="268440387" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="67" pc="268440411" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="68" pc="268440425" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="69" pc="268440509" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="70" pc="268440599" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="71" pc="268440689" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="72" pc="268440757" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="75" pc="268440826" symbol="minimal"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="76" pc="268440830" symbol="minimal"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="77" pc="268440860" symbol="minimal"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="80" pc="268440926" symbol="minimal"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="84" pc="268440990" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="85" pc="268440994" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="86" pc="268441010" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="87" pc="268441040" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="88" pc="268441094" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="89" pc="268441148" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="92" pc="268441205" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="93" pc="268441259" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="94" pc="268441313" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="98" pc="268441368" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="99" pc="268441372" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="100" pc="268441396" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="101" pc="268441426" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="102" pc="268441452" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="105" pc="268441481" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="106" pc="268441507" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="110" pc="268441534" symbol="minimalExpanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="111" pc="268441538" symbol="minimalExpanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="112" pc="268441554" symbol="minimalExpanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="115" pc="268441569" symbol="minimalBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="116" pc="268441573" symbol="minimalBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="117" pc="268441603" symbol="minimalBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="118" pc="268441666" symbol="minimalBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="121" pc="268441723" symbol="minimalBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="122" pc="268441786" symbol="minimalBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="126" pc="268441841" symbol="expanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="127" pc="268441845" symbol="expanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="128" pc="268441861" symbol="expanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="129" pc="268441891" symbol="expanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="132" pc="268441966" symbol="expanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="136" pc="268442039" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="137" pc="268442043" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="138" pc="268442050" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="139" pc="268442080" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="141" pc="268442090" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="142" pc="268442176" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="143" pc="268442257" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="144" pc="268442344" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="145" pc="268442431" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="146" pc="268442518" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="147" pc="268442605" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="148" pc="268442692" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="151" pc="268442780" symbol="drawTable"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="152" pc="268442784" symbol="drawTable"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="153" pc="268442882" symbol="drawTable"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="156" pc="268442987" symbol="drawTableBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="157" pc="268442991" symbol="drawTableBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="158" pc="268443089" symbol="drawTableBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="159" pc="268443119" symbol="drawTableBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/Layout.mc" lineNum="162" pc="268443202" symbol="drawTableBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/DualityView.mc" lineNum="8" pc="268443277" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/DualityView.mc" lineNum="9" pc="268443281" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/DualityView.mc" lineNum="13" pc="268443300" symbol="onLayout"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/DualityView.mc" lineNum="20" pc="268443305" symbol="onShow"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/DualityView.mc" lineNum="24" pc="268443310" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/DualityView.mc" lineNum="25" pc="268443314" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/DualityView.mc" lineNum="26" pc="268443328" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/DualityView.mc" lineNum="27" pc="268443348" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/DualityView.mc" lineNum="30" pc="268443369" symbol="resetScreen"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/DualityView.mc" lineNum="31" pc="268443373" symbol="resetScreen"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/DualityView.mc" lineNum="32" pc="268443419" symbol="resetScreen"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/DualityView.mc" lineNum="33" pc="268443431" symbol="resetScreen"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/DualityView.mc" lineNum="39" pc="268443473" symbol="onHide"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/DualityView.mc" lineNum="43" pc="268443478" symbol="onExitSleep"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/Views/DualityView.mc" lineNum="47" pc="268443483" symbol="onEnterSleep"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/App/DualityApp.mc" lineNum="6" pc="268443488" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/App/DualityApp.mc" lineNum="7" pc="268443492" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/App/DualityApp.mc" lineNum="11" pc="268443511" symbol="onStart"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/App/DualityApp.mc" lineNum="15" pc="268443516" symbol="onStop"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/App/DualityApp.mc" lineNum="19" pc="268443521" symbol="getInitialView"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/App/DualityApp.mc" lineNum="20" pc="268443525" symbol="getInitialView"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/App/DualityApp.mc" lineNum="24" pc="268443563" symbol="onSettingsChanged"/>
+<entry filename="/Users/LoganH/Documents/garmin/Duality/source/App/DualityApp.mc" lineNum="25" pc="268443567" symbol="onSettingsChanged"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="87" method="true" symbol="checkConflictingColors"/>
+<entry id="65" symbol="minimal"/>
+<entry id="77" symbol="drawHours"/>
+<entry field="true" id="61" symbol="line_type"/>
+<entry id="15" method="true" symbol="resetScreen"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8389735" symbol="layout"/>
+<entry id="90" method="true" symbol="drawBattery"/>
+<entry id="79" symbol="bluetooth"/>
+<entry id="75" symbol="hourString"/>
+<entry id="94" method="true" symbol="drawConnected"/>
+<entry id="95" method="true" symbol="drawMessages"/>
+<entry field="true" id="56" symbol="minimalIcons_type"/>
+<entry field="true" id="34" symbol="colorString"/>
+<entry field="true" id="33" symbol="Minimal_Battery"/>
+<entry id="63" method="true" symbol="classic"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="89" method="true" symbol="drawDate"/>
+<entry id="78" symbol="drawMinutes"/>
+<entry field="true" id="28" symbol="Minimal_Expanded"/>
+<entry field="true" id="38" symbol="dateString"/>
+<entry id="72" symbol="drawTable"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="76" symbol="minString"/>
+<entry field="true" id="30" symbol="Off"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="13" object="true" symbol="DualityApp"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry field="true" id="27" symbol="opt_color_14"/>
+<entry id="69" symbol="minimalBattery"/>
+<entry field="true" id="26" symbol="opt_color_13"/>
+<entry field="true" id="31" symbol="opt_color_12"/>
+<entry field="true" id="29" symbol="opt_color_11"/>
+<entry field="true" id="23" symbol="opt_color_10"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="92" method="true" symbol="drawStepsGoal"/>
+<entry field="true" id="43" symbol="Classic_Big"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389627" method="true" symbol="getBackgroundColor"/>
+<entry id="64" symbol="classicBig"/>
+<entry id="71" symbol="line"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="66" symbol="corners"/>
+<entry field="true" id="32" symbol="AppName"/>
+<entry field="true" id="36" symbol="opt_color_9"/>
+<entry field="true" id="37" symbol="opt_color_8"/>
+<entry field="true" id="46" symbol="opt_color_7"/>
+<entry field="true" id="47" symbol="opt_color_6"/>
+<entry id="81" symbol="notifications"/>
+<entry field="true" id="44" symbol="opt_color_5"/>
+<entry field="true" id="45" symbol="opt_color_4"/>
+<entry field="true" id="50" symbol="opt_color_3"/>
+<entry field="true" id="51" symbol="opt_color_2"/>
+<entry field="true" id="49" symbol="opt_color_1"/>
+<entry id="74" method="true" symbol="displayTime"/>
+<entry id="84" method="true" symbol="drawNotification"/>
+<entry field="true" id="59" symbol="minimalBattery_type"/>
+<entry id="68" symbol="minimalExpanded"/>
+<entry field="true" id="22" symbol="LauncherIcon"/>
+<entry id="8389722" object="true" symbol="Layout"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="96" method="true" symbol="drawCalories"/>
+<entry field="true" id="55" symbol="minimal_type"/>
+<entry field="true" id="41" symbol="Minimal"/>
+<entry id="67" symbol="cornerIcons"/>
+<entry field="true" id="54" symbol="classicBig_type"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="60" symbol="expanded_type"/>
+<entry id="91" method="true" symbol="drawSteps"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="73" symbol="drawTableBig"/>
+<entry id="62" method="true" symbol="displayInfo"/>
+<entry field="true" id="24" symbol="LayoutString"/>
+<entry id="12" object="true" symbol="DualityView"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="19" symbol="invertedBluetooth_ID"/>
+<entry id="93" method="true" symbol="drawDistance"/>
+<entry field="true" id="39" symbol="Classic"/>
+<entry field="true" id="21" symbol="invertedNotifications_ID"/>
+<entry field="true" id="58" symbol="minimalExpanded_type"/>
+<entry id="9" object="true" symbol="StatsDisplay"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="85" method="true" symbol="getPrimaryColor"/>
+<entry id="80" symbol="invertedBluetooth"/>
+<entry field="true" id="14" symbol="time"/>
+<entry field="true" id="42" symbol="Line"/>
+<entry id="8388765" object="true" symbol="Symbol"/>
+<entry id="17" module="true" symbol="Layouts"/>
+<entry field="true" id="20" symbol="notifications_ID"/>
+<entry field="true" id="40" symbol="Minimal_Icons"/>
+<entry field="true" id="18" symbol="bluetooth_ID"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="10" object="true" symbol="Color"/>
+<entry id="70" symbol="expanded"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry id="86" method="true" symbol="getSecondaryColor"/>
+<entry field="true" id="48" symbol="Corners"/>
+<entry id="16" module="true" symbol="Menus"/>
+<entry id="82" symbol="invertedNotifications"/>
+<entry field="true" id="25" symbol="invertString"/>
+<entry id="11" object="true" symbol="TimeDisplay"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="57" symbol="corners_type"/>
+<entry id="52" symbol="stats"/>
+<entry id="88" method="true" symbol="getTertiaryColor"/>
+<entry field="true" id="53" symbol="classic_type"/>
+<entry id="83" method="true" symbol="drawBluetooth"/>
+<entry field="true" id="35" symbol="Expanded"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436431" name="dateFormat" stackId="7" startPc="268435915"/>
+<entry endPc="268436431" name="date" stackId="6" startPc="268435915"/>
+<entry endPc="268436431" name="dateString" stackId="8" startPc="268435915"/>
+<entry endPc="268436524" name="batteryString" stackId="6" startPc="268436436"/>
+<entry endPc="268436610" name="stepString" stackId="6" startPc="268436529"/>
+<entry endPc="268436727" name="stepString" stackId="6" startPc="268436615"/>
+<entry endPc="268436870" name="distance" stackId="7" startPc="268436769"/>
+<entry endPc="268436974" name="distance" stackId="8" startPc="268436873"/>
+<entry endPc="268436996" name="distanceString" stackId="6" startPc="268436732"/>
+<entry endPc="268437064" name="connection" stackId="6" startPc="268437001"/>
+<entry endPc="268437205" name="messageString" stackId="7" startPc="268437069"/>
+<entry endPc="268437205" name="message" stackId="6" startPc="268437069"/>
+<entry endPc="268437291" name="calorieString" stackId="6" startPc="268437210"/>
+<entry endPc="268437363" name="invert" stackId="1" startPc="268437297"/>
+<entry endPc="268437441" name="secondaryColor" stackId="1" startPc="268437368"/>
+<entry endPc="268437565" name="invert" stackId="2" startPc="268437446"/>
+<entry endPc="268437636" name="invert" stackId="1" startPc="268437570"/>
+<entry endPc="268437707" name="invert" stackId="1" startPc="268437641"/>
+<entry endPc="268437943" name="layout" stackId="2" startPc="268437718"/>
+<entry endPc="268437943" name="adjust" stackId="3" startPc="268437718"/>
+<entry endPc="268438132" name="time" stackId="4" startPc="268438042"/>
+<entry endPc="268438219" name="time" stackId="5" startPc="268438135"/>
+<entry endPc="268438232" name="i" stackId="3" startPc="268438016"/>
+<entry endPc="268438390" name="time" stackId="7" startPc="268438253"/>
+<entry endPc="268438403" name="i" stackId="6" startPc="268438253"/>
+<entry endPc="268438406" name="hourString" stackId="1" startPc="268437948"/>
+<entry endPc="268438406" name="clockTime" stackId="2" startPc="268437948"/>
+<entry endPc="268438576" name="time" stackId="4" startPc="268438454"/>
+<entry endPc="268438589" name="i" stackId="3" startPc="268438454"/>
+<entry endPc="268438592" name="minString" stackId="1" startPc="268438411"/>
+<entry endPc="268438592" name="clockTime" stackId="2" startPc="268438411"/>
+<entry endPc="268439017" name="hourString" stackId="3" startPc="268438597"/>
+<entry endPc="268439483" name="minString" stackId="3" startPc="268439022"/>
+<entry endPc="268439939" name="layout" stackId="2" startPc="268439493"/>
+<entry endPc="268439939" name="inverter" stackId="3" startPc="268439493"/>
+<entry endPc="268440382" name="symbol" stackId="3" startPc="268439944"/>
+<entry endPc="268440825" name="symbol" stackId="3" startPc="268440387"/>
+<entry endPc="268441533" name="symbol" stackId="3" startPc="268441372"/>
+<entry endPc="268442779" name="adjust" stackId="2" startPc="268442043"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="Symbol">
+<documentation/>
+</functionEntry>
+<functionEntry name="drawBluetooth" parent="Symbol">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="inverter"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawNotification" parent="Symbol">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="inverter"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawDate" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawBattery" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawSteps" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawStepsGoal" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawDistance" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawConnected" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawMessages" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawCalories" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getPrimaryColor" parent="Color">
+<documentation/>
+</functionEntry>
+<functionEntry name="getSecondaryColor" parent="Color">
+<documentation/>
+</functionEntry>
+<functionEntry name="checkConflictingColors" parent="Color">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getTertiaryColor" parent="Color">
+<documentation/>
+</functionEntry>
+<functionEntry name="getBackgroundColor" parent="Color">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="TimeDisplay">
+<documentation/>
+</functionEntry>
+<functionEntry name="displayTime" parent="TimeDisplay">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="hourString" parent="TimeDisplay">
+<documentation/>
+</functionEntry>
+<functionEntry name="minString" parent="TimeDisplay">
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHours" parent="TimeDisplay">
+<param id="dc"/>
+<param id="adjust"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawMinutes" parent="TimeDisplay">
+<param id="dc"/>
+<param id="adjust"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Layout">
+<documentation/>
+</functionEntry>
+<functionEntry name="displayInfo" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="classic" parent="Layout">
+<param id="dc"/>
+<param id="inverter"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="classicBig" parent="Layout">
+<param id="dc"/>
+<param id="inverter"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="minimal" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="corners" parent="Layout">
+<param id="dc"/>
+<param id="inverter"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="cornerIcons" parent="Layout">
+<param id="dc"/>
+<param id="inverter"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="minimalExpanded" parent="Layout">
+<param id="dc"/>
+<param id="inverter"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="minimalBattery" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="expanded" parent="Layout">
+<param id="dc"/>
+<param id="inverter"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="line" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawTable" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawTableBig" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DualityView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="DualityView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="DualityView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="DualityView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="resetScreen" parent="DualityView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="DualityView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="DualityView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="DualityView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="DualityApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="DualityApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="DualityApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="DualityApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="DualityApp">
+<documentation><![CDATA[<div class="description"> New app settings have been received so trigger a UI update<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

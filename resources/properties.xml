@@ -1,0 +1,89 @@
+<resources>
+    <properties>
+   	 	<property id ="id_color" type="number">0xFF0000</property>
+   	 	<property id ="id_invert" type="boolean">false</property>
+   	 	
+   	 	<property id ="layout" type="number">1</property>
+   	 	
+   	 	<property id ="dateFormat" type="boolean">false</property>
+    </properties>
+    
+    <strings>
+    	<string id = "colorString">Minute Color</string>
+    	<string id = "invertString">Invert Colors</string>
+    	
+    	<string id="opt_color_1">Blue</string>
+      	<string id="opt_color_2">White</string>
+       	<string id="opt_color_3">Green</string>
+       	<string id="opt_color_4">Dark Green</string>
+       	<string id="opt_color_5">Red</string>
+       	<string id="opt_color_6">Dark Red</string>
+       	<string id="opt_color_7">Yellow</string>
+       	<string id="opt_color_8">Dark Blue</string>
+       	<string id="opt_color_9">Orange</string>
+       	<string id="opt_color_10">Pink</string>
+       	<string id="opt_color_11">Purple</string>
+       	<string id="opt_color_12">Gray</string>
+       	<string id="opt_color_13">Dark Gray</string>
+       	<string id="opt_color_14">Black</string>
+       	
+       	<string id="LayoutString">Layout</string>
+       	
+       	<string id="Classic">Classic</string>
+       	<string id="Classic_Big">Classic Big</string>
+       	<string id="Minimal">Minimal</string>
+       	<string id="Minimal_Icons">Minimal Icons</string>
+       	<string id="Minimal_Expanded">Minimal Expanded</string>
+       	<string id="Minimal_Battery">Minimal Battery</string>
+       	<string id="Corners">Corners</string>
+       	<string id="Expanded">Expanded</string>
+       	<string id="Line">Line</string>
+       	<string id="Off">Off</string>
+       	
+       	<string id = "dateString">European Date Format</string>
+    </strings>
+
+    <settings>
+       	<setting propertyKey="@Properties.id_color" title="@Strings.colorString">
+            <settingConfig type="list">
+            	<listEntry value="0xFFFFFF">@Strings.opt_color_2</listEntry>
+           		<listEntry value="0x00FF00">@Strings.opt_color_3</listEntry>
+           		<listEntry value="0x00AA00">@Strings.opt_color_4</listEntry>
+           		<listEntry value="0xFF0000">@Strings.opt_color_5</listEntry>
+           		<listEntry value="0xAA0000">@Strings.opt_color_6</listEntry>
+            	<listEntry value="0xFFAA00">@Strings.opt_color_7</listEntry>
+            	<listEntry value="0x00AAFF">@Strings.opt_color_1</listEntry>	
+           		<listEntry value="0x0000FF">@Strings.opt_color_8</listEntry>
+           		<listEntry value="0xFF5500">@Strings.opt_color_9</listEntry>
+           		<listEntry value="0xFF00FF">@Strings.opt_color_10</listEntry>
+           		<listEntry value="0xAA00FF">@Strings.opt_color_11</listEntry>
+           		<listEntry value="0xAAAAAA">@Strings.opt_color_12</listEntry>
+           		<listEntry value="0x555555">@Strings.opt_color_13</listEntry>
+           		<listEntry value="0x000000">@Strings.opt_color_14</listEntry>
+            </settingConfig>
+        </setting>
+        
+        <setting propertyKey="@Properties.id_invert" title="@Strings.invertString">
+            <settingConfig type="boolean" />
+        </setting>
+        
+        <setting propertyKey="@Properties.layout" title="@Strings.LayoutString">
+            <settingConfig type="list">
+            	<listEntry value="0">@Strings.Classic</listEntry>
+           		<listEntry value="1">@Strings.Classic_Big</listEntry>
+           		<listEntry value="2">@Strings.Minimal</listEntry>
+           		<listEntry value="3">@Strings.Minimal_Icons</listEntry>
+           		<listEntry value="4">@Strings.Corners</listEntry>
+           		<listEntry value="5">@Strings.Minimal_Expanded</listEntry>
+           		<listEntry value="6">@Strings.Minimal_Battery</listEntry>
+           		<listEntry value="7">@Strings.Expanded</listEntry>
+           		<listEntry value="8">@Strings.Line</listEntry>
+           		<listEntry value="99">@Strings.Off</listEntry>
+            </settingConfig>
+        </setting>
+        
+        <setting propertyKey="@Properties.dateFormat" title="@Strings.dateString">
+            <settingConfig type="boolean" />
+        </setting>
+	</settings>
+</resources>
