@@ -2,7 +2,6 @@
     <iq:application entry="DualityApp" id="657BC93160D14E10A2D386AF9743CB14" launcherIcon="@Drawables.LauncherIcon" name="@Strings.AppName" type="watchface">
 
         <iq:products>
-            <iq:product id="square_watch"/>
             <iq:product id="fr630"/>
             <iq:product id="fr235"/>
             <iq:product id="fr735xt"/>

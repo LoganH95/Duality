@@ -1,31 +1,29 @@
 using Toybox.Graphics as Gfx;
 using Toybox.System as Sys;
 using Toybox.Lang as Lang;
-using Toybox.Time.Gregorian as Calendar;
 using Toybox.Application as App;
 
 class TimeDisplay {
-	var width; 
-	var height; 
-
-	function initialize() { 
-    }
+	hidden var width; 
+	hidden var height;
 	
     function displayTime(dc) {
     	width = dc.getWidth();
     	height = dc.getHeight();
     	var layout = App.getApp().getProperty("layout");
     	var adjust = 20; 
-		if (layout == 0 || layout == 1) { 
-	   		adjust = 0; 
-	    } else if (layout == 4) {
-	   		adjust = 15; 
-	    } else if (layout == 8) {
-	    	adjust = -15; 
-	    	if (Sys.getDeviceSettings().screenShape == 2) { 
-	    		adjust = -10;
-	    	}
-	    }
+    	switch (layout) {
+    		case classic_type:
+    		case classicBig_type:
+    			adjust = 0;
+    			break;
+    		case corners_type:
+    			adjust = 15;
+    			break;
+    		case line_type:
+    			adjust = Sys.getDeviceSettings().screenShape == Sys.SCREEN_SHAPE_SEMI_ROUND ? -10 : -15;
+    			break;
+    	}
     	drawHours(dc, adjust);
     	drawMinutes(dc, adjust); 
     }
@@ -41,8 +39,7 @@ class TimeDisplay {
 						time -= 12; 
 					}
 					hourString[i] = Lang.format("$1$", [time]);
-				}
-				else {
+				} else {
 					var time = (clockTime.hour - 2 + i);
 					if (time <= 0) {
 						time += 12;
@@ -50,15 +47,12 @@ class TimeDisplay {
 					hourString[i] = Lang.format("$1$", [time]);
 				}
 			}
-		}
-			
-		else {
+		} else {
 			for (var i = 0; i < 5; i++){
 				var time = clockTime.hour - 2 + i;
 				if (time < 0) {
 					time += 24; 
-				}
-				else if (clockTime.hour - 2 + i > 23) {
+				} else if (clockTime.hour - 2 + i > 23) {
 					time -= 24; 
 				}
 				hourString[i] = Lang.format("$1$", [time.format("%02d")]);
@@ -75,9 +69,7 @@ class TimeDisplay {
 			
 			if (time > 59){
 				time -= 60;
-			}
-			
-			else if (time < 0) {
+			} else if (time < 0) {
 				time += 60;
 			}
 			minString[i] = Lang.format("$1$", [time.format("%02d")]);
